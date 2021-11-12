@@ -1,4 +1,4 @@
-a = ("China","Russian","Japan","German","Belarus")
+a = ("China","Russian","Gachilandia","Hohlolandia","Belarus")
 print(a)
 b = int(input("Введите номер страны в списке: "))
 c = (a[b])
